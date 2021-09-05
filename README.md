@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maisonkodama
-- 👀 I’m interested in learning to build web applications as well as developing games.
-- 🌱 I’m currently learning HTML, CSS, JS, C#
-- 💞️ I’m looking to collaborate on building web applications and working on Unity Projects
+- 👀 I’m interested in learning to design web applications as well as developing games.
+- 🌱 I’m currently learning UX Design, front-end web design, and building games with Unity
+- 💞️ I’m looking to collaborate on design web applications and working on Unity Projects
 - 📫 How to reach me ???
 
 <!---
